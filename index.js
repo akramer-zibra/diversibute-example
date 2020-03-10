@@ -37,7 +37,7 @@ var teilnehmende = {
 }
 
 // Algorithmus anwenden
-diversibute.genetic(teilnehmende, 4, { results: 5 }).then(result => {
+diversibute.diverse(teilnehmende, 4, { results: 5 }).then(result => {
   // Ausgabe des gesamten Ergebnisses
   console.log('\n>>> Gesamtes Ergebnisobjekt:')
   console.log(result)
