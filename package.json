@@ -13,6 +13,6 @@
   "author": "Achim Kramer",
   "license": "ISC",
   "dependencies": {
-    "diversibute": "git+https://github.com/akramer-zibra/diversibute.git#0.2.3"
+    "diversibute": "git+https://github.com/akramer-zibra/diversibute.git"
   }
 }
